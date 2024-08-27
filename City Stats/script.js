@@ -9,7 +9,7 @@
         literacyRate = 89.73
         language = 'Marathi'
 'Delhi': population = 16787941
-         literacyRate = 86.20
+         literacyRate = 86.20l
          language = 'Hindi'
 The Indian city of Bengaluru has a population of 8443675. Language spoken is Kannada and literacy rate is 88.71%.
 */
